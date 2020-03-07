@@ -14,7 +14,6 @@ https://play.kotlinlang.org/koans/overview
 Checkout Kotlin Koans and try out the exercise there.
 If you’re confused or don’t understand it, feel free to skip it.
 
-
 - Data Types
 > String, Int, Boolean
 
@@ -29,6 +28,20 @@ If you’re confused or don’t understand it, feel free to skip it.
 
 - Data Model
 > data class Person(id: String, name: String, age: Int, isMarried: Boolean)
+
+## Getting Kotlin Run on Your Machine
+
+**Step 1 - Download Intellij (Best Dark Mode IDE Ever!)**
+
+**Step 2 - Create New Project > Kotlin (JVM) > Create New Class and Write Main Method to Print Hello World**
+
+**Step 3 - Try to Input Your Name and Print "Hello World, ${INPUT_NAME}"**
+
+Refer my MainActivity.kt, in the project files if you have question.
+
+Best of luck! 🎉
+
+https://www.jetbrains.com/idea/download/
 
 ### Stage 2
 # 🐍
