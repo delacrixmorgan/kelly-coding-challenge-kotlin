@@ -23,4 +23,4 @@ If you’re confused or don’t understand it, feel free to skip it.
 - Data Model
 > data class Person(id: String, name: String, age: Int, isMarried: Boolean)
 
-### [Easy Peasy Right. Now, what?](/guide/stage-2-thought-process.md)
+### [👉🏻 Next Stage. Now, what?](/guide/stage-2-thought-process.md)
