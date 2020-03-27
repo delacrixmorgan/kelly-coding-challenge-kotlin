@@ -24,4 +24,10 @@ Let's build an user interface that user can interact with.
 2) What can the user do, after they type?
 3) How can I process what the user type and give them what they expect me to do?
 
-> Good Night and Good Luck!
+> Good Night and Good Luck! 🎉
+
+## Chapter 2 - Setting Up Your Game
+
+🚧 Work in Progress 🚧
+
+💭 Let me know when you're done with Chapter 1
